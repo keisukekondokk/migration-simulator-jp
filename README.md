@@ -31,7 +31,7 @@ URL: https://keisukekondokk.github.io/
 
 ## 参考文献
 近藤恵介 (2019) 「東京一極集中と地方への移住促進」、RIETI Policy Discussion Paper No. 19-P-006（2022年11月改訂）  
-URL: https://www.rieti.go.jp/en/publications/summary/20120005.html  
+URL: https://www.rieti.go.jp/jp/publications/summary/19040007.html  
 
 ## 履歴
 2022年10月28日　Shinyウェブアプリ公開
