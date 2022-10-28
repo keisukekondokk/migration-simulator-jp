@@ -1,0 +1,101 @@
+/* header style*/
+.main-header .logo {
+  font-weight: bold;
+}
+
+/* tabPanel style */
+.nav-tabs-custom > .tab-content{
+  margin: 0;
+  padding: 0;
+}
+
+/* sidebar toggle style */
+.sidebar-toggle {
+  text-decoration: none;
+}
+.sidebar-toggle:hover {
+  text-decoration: none;
+}
+.sidebar-toggle:focus {
+  text-decoration: none;
+}
+
+/* slider style and color */
+.irs-bar {
+  margin-bottom: 5px;
+  border-color: transparent;
+  background-color: transparent;
+}
+.irs-bar-edge {
+  border-color: transparent;
+  background-color: transparent;
+}
+div#slider_inline {
+  width: 95%;
+  line-height: 100%;
+  margin: 10px auto;
+}
+div#slider_inline input{
+  margin-bottom: 0px;
+}
+
+/* actionbutton */
+#buttonSimulation {
+  width: 90%; 
+  text-decoration: none;
+  margin: 10px auto; 
+  font-weight: bold; 
+  color: #ffffff; 
+  background-color: #3C8EBC; 
+  border-color: #3C8EBC;
+}
+#buttonSimulation:hover {
+  opacity: 0.9;
+  cursor: pointer;
+  transform: scale(0.99, 0.99)
+}
+#buttonSimulation:focus {
+	outline: 0;
+}
+
+/* sidebar style*/
+.control-sidebar-tabs {
+  display:none;
+}
+
+/* sidebar style*/
+.main-sidebar {
+  position: fixed; 
+  height: 90vh;
+  overflow-y: auto;
+}
+
+/* sidebar style*/
+.main-sidebar h2{
+  font-size: 20px;
+  text-align: center;
+}
+
+/* sidebar style*/
+.main-sidebar h3{
+  margin-top: 0;
+  margin-bottom: 10px;
+  padding: 0;
+  font-size: 14px;
+}
+
+/* sidebar style*/
+.main-sidebar h4{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding: 0;
+  font-size: 12px;
+}
+
+/* sidebar style*/
+.main-sidebar p{
+  margin: 0;
+  padding: 0 15px;
+  font-size: 12px;
+  text-align: center;
+}
