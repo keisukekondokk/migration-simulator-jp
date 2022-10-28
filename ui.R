@@ -316,7 +316,7 @@ body <- dashboardBody(
             h3("コード公開"),
             p("Shiny appのRコードはGithubより入手可能です。"),
             p("URL: ", a(href = "https://keisukekondokk.github.io/", "https://keisukekondokk.github.io/", .noWS = "outside"), .noWS = c("after-begin", "before-end")),
-            p("URL: ", a(href = "https://github.com/keisukekondokk/covid19-simulator-japan", "https://github.com/keisukekondokk/covid19-simulator-japan", .noWS = "outside"), .noWS = c("after-begin", "before-end"))
+            p("URL: ", a(href = "https://github.com/keisukekondokk/migration-simulator-jp", "https://github.com/keisukekondokk/migration-simulator-jp", .noWS = "outside"), .noWS = c("after-begin", "before-end"))
           )
         )
       )
