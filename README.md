@@ -4,7 +4,7 @@
 本研究では、地方創生における移住支援金政策を事前評価するための簡易的な分析枠組みを提案しています。移住支援金の金額をどのように決めたらいいのか、現在の金額でどれほどの政策効果があるのかについて、政策を実施する前から具体的な数値に基づいて議論できるように研究を行っています。  
 URL: https://keisuke-kondo.shinyapps.io/migration-simulator-jp/
 
-[![移住シミュレーション](www/fig_shinyapp.png "移住シミュレーション")](https://keisukekondokk.github.io/migration-simulator-jp)
+[![移住シミュレーション](www/fig_shinyapp.png "移住シミュレーション")](https://keisuke-kondo.shinyapps.io/migration-simulator-jp/)
 
 ## 利用規約
 当サイトで公開している情報（以下「コンテンツ」）は、どなたでも自由に利用できます。コンテンツ利用に当たっては、本利用規約に同意したものとみなします。本利用規約の内容は、必要に応じて事前の予告なしに変更されることがありますので、必ず最新の利用規約の内容をご確認ください。
