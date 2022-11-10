@@ -84,7 +84,7 @@ sidebar <- dashboardSidebar(
       step = 0.001
     ),
   ),
-  # Migration Distance from Tokyo
+  # Simulation Button
   div(
     actionButton("buttonSimulation", span(icon("play-circle"), "シミュレーション"), class="btn btn-info"),
     p("「シミュレーション」を押してください。")
@@ -123,7 +123,7 @@ body <- dashboardBody(
     ####################################
     tabPanel(
       "移住シミュレーション", 
-      icon = icon("chart-bar"),
+      icon = icon("chart-line"),
       div(
         style = "margin-left: -25px; margin-right: -25px;",
         #------------------------------------------------

@@ -135,7 +135,7 @@ server <- function(input, output, session){
     }
 
     ## ++++++++++++++++++++++++++++++++++++++++++
-    ## MAKE FIGURES USING SIMULATION RESULTS
+    ## MAKE BOX
     ## ++++++++++++++++++++++++++++++++++++++++++
     
     #++++++++++++++++++++++++++++++++++++++
@@ -190,7 +190,7 @@ server <- function(input, output, session){
     })
     
     ## ++++++++++++++++++++++++++++++++++++++++++
-    ## MAKE FIGURES USING SIMULATION RESULTS
+    ## MAKE TABLES
     ## ++++++++++++++++++++++++++++++++++++++++++
     
     #++++++++++++++++++++++++++++++++++++++
@@ -236,7 +236,6 @@ server <- function(input, output, session){
       bordered = TRUE,
       digits = 3
     )
-    
     
     #++++++++++++++++++++++++++++++++++++++
     
